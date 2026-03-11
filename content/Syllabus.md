@@ -12,12 +12,6 @@ which should set me up to explore
 - history of art/architecture, urban change
 - various literature to get better at reading and experience the joy of storytelling and being human
 
-| week               | goal                                                                                                                        |
-| ------------------ | --------------------------------------------------------------------------------------------------------------------------- |
-| 8 - 14 march       | ~~get this site up, finalise syllabus~~, read over the big events in history (pass 1), pick what to read in depth next week |
-| 15 - 21 march      | read those things that you carefully chose last week. write a summary of my thoughts                                        |
-| 22 - 28 march      | pick a couple topics from 'how the world works now'                                                                         |
-| 29 march - 4 april | philosophy -- ethics and also learning what i'd like to learn                                                               |
-| 5 - 11 april       | whatever you feel is left / wants attention from what you've learned so far                                                 |
-| 12 - 18 april      | (hopefully back in oxford) kick off the second phase of the syllabus -- pick new topics, reassess as you approach exams     |
-
+| week         | what i did                                                                                                                                                 |
+| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 8 - 14 march | get this site up, finalise syllabus, start [[History]] (pass 1 - getting an overview of everything). learned about Greek Democracy and Roman Republicanism |
