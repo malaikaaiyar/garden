@@ -5,7 +5,7 @@ Strategy:
 ---
 
 - Foundations (pre 1500s)
-	- [[Greek democracy]] & Roman republicanism — where "the West" gets its political vocabulary
+	- [[Greek democracy]] & [[Roman republicanism]]
 	- The fall of Rome & feudalism — why Europe was fragmented when everyone else wasn't
 	- Song dynasty China & the Islamic golden age — the world wasn't Europe-centric until very recently
 	- The Black Death — labor scarcity as the first crack in feudalism

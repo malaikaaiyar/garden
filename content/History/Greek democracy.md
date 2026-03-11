@@ -10,4 +10,21 @@
 		- generally aristocrats
 	- in 621 BC Draco replaced oral law system by a written code to be enforced by a court of law -- more fair!
 	- while the Draconian Constitution, his laws, were really harsh, this was one of the early developments of Athenian democracy. many of the laws were later repealed
-	- Solon wanted to fix the inequities permeating Athenian society, in 594 BC he was appointed archon. 
+	- Solon wanted to fix the inequities permeating Athenian society, in 594 BC he was appointed archon. wanted government structure to include a wider range of property classes
+		- issued a lot of reforms
+		- redefined citizenship that gave each free resident a political function
+			- right to participate in assembly meetings
+			- introduced the boule, a council of 400 members, 100 from each property classs
+			- cancelled existing debts, freed debtors, no longer allowed borrowing on the security of one's own person 
+	- Cleisthenes' reforms undermined domination of aristocratic families. connected every Athenian to the city's rule. formally identified free inhibitants as citizens. made ownership/money-based tribes irrelevant, made new tribes based on geography
+	- Ephialtes reforms reduced the powers of the Areopagus to a criminal court, and then to the lower level of citizenship
+	- around 413 BC after Athen's defeat in the Sicilian Campaign, a group of citiznes wanted to limit the radical democraacy they thought was happening
+		- --> an oligarchy was established, Athenian coup of 411 BC
+		- endured for 4 months before it was replaced with a more democratic government again
+	- persisted until 338BC when Macedonian army conquered Athens
+
+Why should we care about Athenian Democracy
+- modern democracy is rooted in the same principles (direct participation)
+- obstacles like mob mentality and hurried decision-making were encountered by this kind of democracy
+	- modern democracy places emphasis on 'checks and balances' / separation of powers between different parts of government
+	- 

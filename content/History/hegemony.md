@@ -1,0 +1,1 @@
+the political, economic, and military predominance of one [state](https://en.wikipedia.org/wiki/State_\(polity\) "State (polity)") over other states, either regional or global

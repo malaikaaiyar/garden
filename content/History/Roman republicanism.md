@@ -1,0 +1,4 @@
+- c. 509-27BC
+- the Roman Republic was an era beginning with the overthrow of the Roman Kingdom (when Rome was ruled by monarchs) in 509 BC, ending in 27BC with the establishment of the Roman Empire
+- Rome's control expanded from the city's immediate surroundings to [[hegemony]] over the entire Mediterranean area
+- 
