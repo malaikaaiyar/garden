@@ -1,0 +1,53 @@
+Strategy:
+- pass 1 - get the skeleton first, learn from videos / podcasts / LLMs / wikipedia
+- pass 2 - go deeper on the most important / interesting post-1900s areas and read some real sources. decide this after pass 1
+
+---
+
+- Foundations (pre 1500s)
+	- [[Greek democracy]] & Roman republicanism — where "the West" gets its political vocabulary
+	- The fall of Rome & feudalism — why Europe was fragmented when everyone else wasn't
+	- Song dynasty China & the Islamic golden age — the world wasn't Europe-centric until very recently
+	- The Black Death — labor scarcity as the first crack in feudalism
+- 1500-1800
+	- The Colombian Exchange — disease, silver, and the ecological transformation of the world
+	- The Atlantic slave trade & plantation economies — the capital accumulation engine underneath everything
+	- The joint-stock company (VOC, East India Company) — the invention that merged state power and private capital
+	- The Enlightenment — Locke, Hume, Rousseau, Kant. Where liberalism, rights, and secular governance come from
+	- The American & French Revolutions — the first attempts to build states on Enlightenment ideas. Why one worked and one didn't (oversimplified but useful)
+	- Adam Smith & the birth of political economy (what he said and people's opinions too)
+- 1800-1914 (industrialisation)
+	- The Industrial Revolution — why Britain, why then, what it did to social structure
+	- Marx — the critique of industrial capitalism.
+	- European colonialism at scale — the scramble for Africa, the Raj, extraction as system
+	- The abolition of slavery & its afterlives — emancipation without redistribution
+	- Nationalism — how "the nation" became the natural unit of politics
+	- The Meiji Restoration — the one non-Western country that industrialized on its own terms, and why that matters
+- 1914-1945
+	- WWI — the collapse of the European order. Focus on _why_ it happened, not battles
+	- The Russian Revolution — Marxism as state project, first time
+	- The Great Depression — market failure at scale, the death of laissez-faire consensus
+	- Fascism — what it actually was as an ideology, not just "bad guys"
+	- WWII & the Holocaust — total war, industrial genocide, the end of European global dominance
+- 1945-1980
+	- Bretton Woods — the dollar system, IMF, World Bank. The architecture of the global economy
+	- The UN & postwar institutional order — what it was designed to do vs what it does
+	- The Cold War — not just US vs USSR, but two competing models for organizing society
+	- Decolonization — the actual process, the neocolonial structures that replaced formal empire
+	- The welfare state consensus — Keynesianism, NHS, New Deal legacy. The 30-year norm that neoliberalism reacted against
+	- The Civil Rights Movement — not just US; global anti-racist and anti-colonial movements as connected
+	- 1968 & the New Left — the cultural turn, identity politics origins, the fracturing of the left
+	- The oil crises (1973, 1979) — the moment the postwar consensus broke
+- 1980-2008
+	- Thatcher & Reagan — deregulation, privatization, union-breaking as ideology and policy
+	- The fall of the Soviet Union — why, and what it meant for the "there is no alternative" thesis
+	- China's reform era (Deng Xiaoping onward) — the biggest economic transformation in history
+	- The Washington Consensus — structural adjustment, IMF conditionality, how the developing world got shaped
+	- The internet as political-economic event
+	- 9/11 & the War on Terror — the security state, the Middle East, American overreach
+- 2008-present
+	- The 2008 financial crisis
+	- The rise of populism (Trump, Brexit, Bolsonaro, Modi) — what's shared across these, what isn't
+	- China as peer competitor — Belt & Road, tech competition, the end of unipolarity
+	- Climate change as political-economic problem — not the science, the governance failure
+	- AI & the current moment — concentration of power, labor displacement, governance vacuum

@@ -1,0 +1,13 @@
+- 6th century BC in Athens. Many Greek city-states were democratic, but Athens is the most famous. The idea spread fast around Greece though
+	- we study Athens because we have the best record of it, including having the only complete "constitution" compiled by Aristotle and his students in the 4th century BCE (*Constitutions*)
+- Focus on liberty, equality, security
+- Key people: Solon, Cleisthenes, Ephialtes contributed to the development of Athenian democraacy
+	- Cleisthenes broke up the unlimited power of the nobility by organizing citizens into ten groups based on where they lived, rather than on their wealth
+	- Pericles was the longest lasting democratic leader
+- Participation open to adult, free, male citizens
+- A chronology
+	- Before democracy, Athens was ruled by 'archons', or magistrates, and "the council of the Areopagus" made of ex-archons
+		- generally aristocrats
+	- in 621 BC Draco replaced oral law system by a written code to be enforced by a court of law -- more fair!
+	- while the Draconian Constitution, his laws, were really harsh, this was one of the early developments of Athenian democracy. many of the laws were later repealed
+	- Solon wanted to fix the inequities permeating Athenian society, in 594 BC he was appointed archon. 
